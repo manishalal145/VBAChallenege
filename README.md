@@ -18,3 +18,6 @@ Looped through all the stocks to get the following info:
 
 Step 3:
 Made the appropriate adjustments to allow script to run on every worksheet just by running it once.
+
+![image](https://user-images.githubusercontent.com/56851902/116085262-a5024400-a66c-11eb-81ff-26488dca4c17.png)
+
